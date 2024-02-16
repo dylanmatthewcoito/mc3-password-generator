@@ -2,16 +2,16 @@
 
 ## Description
 
-This application is a password generator to provide secure passwords for users.
+This application is a password generator that provides a secure password for users. Simply following the prompts in the application will enable users to generate secure passwords tailored to the user's specifications and requirements/restrictions. 
 
 
 ## Motivation to create application: 
 
-This application will sove the problem of users having to manually configure a password that meets the security requirements of several applications and websites. 
+This application will solve the problem of users having to manually configure a password that meets the security requirements of several applications and websites. 
 
 ## Purpose and Lessons Learned
 
-This project was built to solve the underlying problem outline in 'Motivation to create application' (above).
+This project was built to solve the underlying problem outlined in 'Motivation to create application' (above).
 
 I learned that user account security is of untmost importance to the user and the companies involved. 
 
