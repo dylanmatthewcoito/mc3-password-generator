@@ -2,8 +2,7 @@
 
 ## Application Link
 
-[
-](https://dylanmatthewcoito.github.io/mc3-password-generator/Develop/)
+[](https://dylanmatthewcoito.github.io/mc3-password-generator/Develop/)
 
 ## Description
 
