@@ -2,12 +2,16 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This application is a password generator to provide secure passwords for users.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+
+## Motivation to create application: 
+
+-This application will sove the problem of users having to manually configure a password that meets the security requirements of several applications and websites. 
+
+This project was built to solve the underlying problem outline in 'Motivation to create application' (above).
+
+I learned that user account security is of untmost importance to the user and the companies involved. 
 
 
 ## Installation
