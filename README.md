@@ -1,5 +1,10 @@
 # Password Generator
 
+## Application Link
+
+[
+](https://dylanmatthewcoito.github.io/mc3-password-generator/Develop/)
+
 ## Description
 
 This application is a password generator that provides a secure password for users. Simply following the prompts in the application will enable users to generate secure passwords tailored to the user's specifications and requirements/restrictions. 
