@@ -5,7 +5,7 @@
 This application is a password generator that provides a secure password for users. Simply following the prompts in the application will enable users to generate secure passwords tailored to the user's specifications and requirements/restrictions. 
 
 
-## Motivation to create application: 
+## Motivation 
 
 This application will solve the problem of users having to manually configure a password that meets the security requirements of several applications and websites. 
 
